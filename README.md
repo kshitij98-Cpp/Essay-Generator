@@ -12,7 +12,19 @@ This project is based on Web Scrapping which will fetch the information by using
 - Install webdriver of your browser and paste it in your python directory 
 - For Chrome[https://chromedriver.chromium.org/downloads](https://chromedriver.chromium.org/downloads)
 - For Firefox [https://github.com/mozilla/geckodriver/releases](https://github.com/mozilla/geckodriver/releases)
+
 ## Modules to be Installed
+* Install Pyaudio:
+```
+  pip install pyaudio
+```
+## NOTE 
+- If the above command doesn't work for installation of pyaudio(you have to do it manually)
+- Go to [https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio](https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio)
+- And choose any version and execute the command in cmd by
+- For example
+```
+  pip install PyAudio‑0.2.11‑cp37‑cp37m‑win_amd64.whl
 
 * Install selenium:
 
