@@ -212,7 +212,7 @@ class make(QMainWindow):
 
                 time.sleep(2)
                 #Using the playsound module to play .mp3 files
-                speak("playback is starting")
+                speak("playback is starting. If you want to start say start and if you don't want to listen the playback say stop, after i stop saying anything.")
                 text = get_audio()
                 if "stop" in text:
                     print("Process stopped.\n")
