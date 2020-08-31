@@ -10,8 +10,8 @@ This project is based on Web Scrapping which will fetch the information by using
 
 ## Setup
 - Install webdriver of your browser and paste it in your python directory 
-For Chrome[https://chromedriver.chromium.org/downloads](https://chromedriver.chromium.org/downloads)
-For Firefox [https://github.com/mozilla/geckodriver/releases](https://github.com/mozilla/geckodriver/releases)
+- For Chrome[https://chromedriver.chromium.org/downloads](https://chromedriver.chromium.org/downloads)
+- For Firefox [https://github.com/mozilla/geckodriver/releases](https://github.com/mozilla/geckodriver/releases)
 ## Modules to be Installed
 
 * Install selenium:
