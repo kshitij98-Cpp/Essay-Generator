@@ -1,0 +1,5 @@
+playsound==1.2.2
+selenium==3.141.0
+SpeechRecognition==3.8.1
+gTTS==2.1.1
+PyQt5==5.15.0
