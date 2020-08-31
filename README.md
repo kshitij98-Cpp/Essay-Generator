@@ -9,9 +9,11 @@ The project Essay-Generator will generate essay and save it to a .txt file.
 This project is based on Web Scrapping which will fetch the information by using Selenium and find the content by using the id and tag_name of webpage(html).
 
 ## Setup
-- Install webdriver of your browser and paste it in your python directory 
+
+- Install webdriver of your browser and paste it in your python directory. Download link below. 
 - For Chrome[https://chromedriver.chromium.org/downloads](https://chromedriver.chromium.org/downloads)
 - For Firefox [https://github.com/mozilla/geckodriver/releases](https://github.com/mozilla/geckodriver/releases)
+- Disable Pylint.
 
 ## Modules to be Installed
 * Install Pyaudio:
