@@ -13,6 +13,8 @@ from selenium import webdriver
 import sys
 import os
 import playsound
+import pyaudio
+
 from PyQt5 import QtCore, QtGui, QtWidgets
 from PyQt5.QtWidgets import QMainWindow, QApplication
 from PyQt5 import QtTest
@@ -116,8 +118,9 @@ class make(QMainWindow):
 
                 self.ui.Result.setText("Audio Playback may take some time, be patient.\nMake sure internet is enabled")
                 
-                QtTest.QTest.qWait(1000)
+                QtTest.QTest.qWait(3000)
                 self.ui.Result.setText("If you want to stop playback and don't want to listen say 'stop' \n after the speaker says 'playback started'\n if u want to listen say 'start'. ")
+                QtTest.QTest.qWait(1000)
                 #closing the file
                 output.close()
                 
@@ -190,8 +193,10 @@ class make(QMainWindow):
 
                 self.ui.Result.setText("Audio Playback may take some time, be patient.\nMake sure internet is enabled")
 
-                QtTest.QTest.qWait(1000)
+                QtTest.QTest.qWait(3000)
                 self.ui.Result.setText("If you want to stop playback and don't want to listen say 'stop' \n after the speaker says 'playback started'\n if u want to listen say 'start'. ")
+                
+                QtTest.QTest.qWait(1000)
                 #closing the file
                 output.close()
 
