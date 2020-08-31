@@ -25,7 +25,7 @@ This project is based on Web Scrapping which will fetch the information by using
 - For example
 ```
   pip install PyAudio‑0.2.11‑cp37‑cp37m‑win_amd64.whl
-
+```
 * Install selenium:
 
 ```
