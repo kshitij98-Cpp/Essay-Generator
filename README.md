@@ -2,7 +2,8 @@
 
 ## What it Does
 
-The project Essay-Generator will generate essay and save it to a .txt file.
+- The project Essay-Generator will generate essay and save it to a .txt file.
+- This project also supports audio playback.
 
 ## How it Works
 
