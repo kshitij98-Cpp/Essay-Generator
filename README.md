@@ -12,7 +12,7 @@ This project is based on Web Scrapping which will fetch the information by using
 ## Setup
 
 - Install webdriver of your browser and paste it in your python directory. Download link below. 
-- For Chrome[https://chromedriver.chromium.org/downloads](https://chromedriver.chromium.org/downloads)
+- For Chrome [https://chromedriver.chromium.org/downloads](https://chromedriver.chromium.org/downloads)
 - For Firefox [https://github.com/mozilla/geckodriver/releases](https://github.com/mozilla/geckodriver/releases)
 - Disable Pylint.
 
