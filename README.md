@@ -44,12 +44,13 @@ This project is based on Web Scrapping which will fetch the information by using
   pip install playsound
  
  ```
-* Install PyQt 5:
+* Install playsound.
+ 
+ ```
+  pip install PyQt5
+ 
+ ```
 
-  ``` 
-   pip install PyQt5 
-
-  ```
 * Install gtts:
  ```
   pip install gTTS
